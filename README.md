@@ -1,5 +1,5 @@
 
-# Cifra de Substituição Homófona com PBKDF2
+# Cifra de Substituição Homófona
 
 Este projeto implementa um algoritmo de criptografia por substituição homófona, utilizando derivação de chave com PBKDF2. O script permite criptografar e descriptografar arquivos de texto, garantindo segurança e compatibilidade com os critérios definidos na disciplina de Segurança da Informação.
 
