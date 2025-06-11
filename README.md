@@ -14,6 +14,7 @@ A chave de substituição é gerada a partir da senha do usuário com o algoritm
 
 ### Requisitos do sistema
 
+- Sistema operacional Windows ou Linux
 - Python 3 instalado
 - Instalar a biblioteca `cryptography`:
 ```bash
