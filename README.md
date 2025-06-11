@@ -12,7 +12,7 @@ Foi implementada uma cifra de substituição homófona, onde:
 
 A chave de substituição é gerada a partir da senha do usuário com o algoritmo PBKDF2-HMAC-SHA256 e um salt aleatório.
 
-### Pré-requisitos
+### Requisitos do sistema
 
 - Python 3 instalado
 - Instalar a biblioteca `cryptography`:
