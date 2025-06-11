@@ -6,7 +6,7 @@ Este projeto implementa um algoritmo de criptografia por substituição homófon
 ## O Algoritmo 
 
 Foi implementada uma cifra de substituição homófona, onde:
-- Cada caractere do texto original é substituído por um código numérico.
+- Os caracteres do texto original são substituídos por um código numérico.
 - Cada caractere tem múltiplos códigos possíveis (homófonos), escolhidos aleatoriamente na cifragem.
 - Na decifragem, os códigos são revertidos para o caractere original com base em um dicionário salvo.
 
