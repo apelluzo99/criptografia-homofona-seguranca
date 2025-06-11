@@ -73,6 +73,6 @@ Isso gera:
 ## Estudante
 
 Aluno(a): Ana Paula Ferreira Pelluzo  
-Instituição: Instituto Federal de Educação, Ciência e Tecnologia  
+Instituição: Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul 
 Disciplina: Segurança da Informação  
 Professor: Dieison Silveira
